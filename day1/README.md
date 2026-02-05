@@ -3,7 +3,8 @@
 **日期：** 2026-02-05
 **学习平台：** pwn.college
 **当前模块：** Linux Luminarium (Linux 启蒙)
-**进度：** - [x] Welcome: Interacting with the Dojo
+**进度：** 
+- [x] Welcome: Interacting with the Dojo
 - [x] Linux Luminarium: Hello Hackers
 - [x] Linux Luminarium: Pondering Paths
 
